@@ -1,3 +1,4 @@
+/*Giovanna Oliveira Troyano Da Silva*/
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
