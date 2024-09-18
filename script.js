@@ -1,4 +1,4 @@
-/*Giovanna Oliveira Troyano Da Silva*/
+/*Giovanna Oliveira Troyano Da Silva 2C 18/09/2024*/
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
